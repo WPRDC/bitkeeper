@@ -3,5 +3,6 @@
 __pycache__/
 TODO
 *notes.txt
-data/
 parameters/
+data/archive/
+misc/
